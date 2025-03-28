@@ -1,6 +1,8 @@
 /* src/App.css */
 .App {
 	text-align: center;
+	background-color: #e0ffff; /* Светло-бирюзовый цвет */
+	min-height: 100vh; /* Убедитесь, что фон занимает всю высоту экрана */
 }
 
 .App-header {

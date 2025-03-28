@@ -259,7 +259,7 @@ const App = () => {
 					</Routes>
 				</main>
 				<footer>
-					<p>&copy; 2023 Ремонт окон в Москве</p>
+					<p>&copy; 2025 Ремонт окон в Москве</p>
 				</footer>
 			</div>
 		</Router>
