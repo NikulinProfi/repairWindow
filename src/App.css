@@ -12,6 +12,11 @@
 	align-items: center;
 }
 
+.header-link {
+	text-decoration: none;
+	color: white;
+}
+
 .menu-toggle {
 	background: none;
 	border: none;

@@ -98,7 +98,9 @@ const App = () => {
 		<Router>
 			<div className="App">
 				<header className="App-header">
-					<h1>Ремонт окон в Москве</h1>
+					<Link to="/" className="header-link">
+						<h1>Ремонт окон в Москве</h1>
+					</Link>
 					<button className="menu-toggle" onClick={toggleMenu}>
 						☰
 					</button>
