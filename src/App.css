@@ -43,6 +43,7 @@ nav ul li a {
 
 main {
 	padding: 20px;
+	padding-bottom: 80px; /* Добавьте отступ снизу для основного контента */
 }
 
 footer {
@@ -82,6 +83,7 @@ footer {
 
 	main {
 		padding: 10px;
+		padding-bottom: 80px; /* Добавьте отступ снизу для основного контента */
 	}
 
 	footer {
@@ -92,4 +94,35 @@ footer {
 .responsive-image {
 	max-width: 100%;
 	height: auto;
+	margin-bottom: 20px; /* Добавьте отступ снизу для изображений */
+}
+
+section {
+	margin: 40px 0; /* Увеличьте отступы между разделами */
+}
+
+section h3 {
+	margin-bottom: 20px;
+	font-size: 1.5em; /* Увеличьте размер заголовков */
+}
+
+section ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+section ul li {
+	margin: 10px 0;
+}
+
+blockquote {
+	margin: 20px 0;
+	padding: 10px;
+	background-color: #f9f9f9;
+	border-left: 4px solid #282c34;
+}
+
+blockquote footer {
+	font-style: italic;
+	margin-top: 10px;
 }
